@@ -1,0 +1,2 @@
+This directory contains raw football data files.
+این پوشه برای نگهداری فایل‌های خام داده فوتبال است.
